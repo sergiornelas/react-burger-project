@@ -15,7 +15,7 @@ const burger = props => {
         meat: 2
       }
   */
-
+  console.log(props)
   let transformedIngredients = 
     Object.keys(props.ingredients)
     //transformedIngredients = ["salad", "bacon", "cheese", "meat"]
