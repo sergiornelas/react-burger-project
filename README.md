@@ -6,6 +6,8 @@
 - HTTP requests with Axios
 - CSS Modules
 
+Responsiveness only works on mobile (for now)
+
 ## Link:
 https://react-my-burger-c1bd5.web.app/
 
