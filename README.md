@@ -1,6 +1,7 @@
 # React burger project
 
 ## What I learned:
+- React key concepts
 - Class based components
 - Lifecycle methods
 - HTTP requests with Axios
